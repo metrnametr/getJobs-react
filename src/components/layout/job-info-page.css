@@ -1,0 +1,14 @@
+.list-inline-item {
+    display: inline-block;
+}
+.btn-primary {
+    color: #fff !important;
+    background-color: #d41111 !important;
+    border-color: #d41111 !important;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 20px 40px;
+    border-radius: 3px;
+    font-family: Montserrat,'Helvetica Neue',Helvetica,Arial,sans-serif;
+    text-transform: uppercase;
+}

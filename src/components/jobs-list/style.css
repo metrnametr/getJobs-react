@@ -1,0 +1,23 @@
+.portfolio_row {
+    margin-top: 25px;
+  }
+  
+  .page-item.active .page-link {
+    z-index: 1;
+    color: #fff !important;
+    background-color: #d41111 !important;
+    border-color: #d41111 !important;
+  }
+  
+  
+  #portfolio .portfolio-item .portfolio-caption {
+    margin: 0 auto;
+    padding: 25px;
+    background-color: #fff;
+  }
+  
+  #portfolio .portfolio-item .portfolio-caption p {
+    font-size: 16px;
+    margin: 0;
+    font-family: 'Droid Serif','Helvetica Neue',Helvetica,Arial,sans-serif;
+  }

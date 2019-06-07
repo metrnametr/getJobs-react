@@ -1,0 +1,51 @@
+section h2.section-heading {
+    font-size: 40px;
+    margin-bottom: 15px;
+  }
+  
+  .portfolio-item {
+    right: 0;
+    margin: 0 0 15px !important;
+  }
+  
+  
+  .btn-red {
+    font-weight: 500;
+    background-color: #d41111 ;
+    text-transform: capitalize;
+    color: #FFF;
+    font-weight: 700 !important;
+  }
+  
+  section{
+    padding: 50px 0;
+  }
+  
+  section h3.section-subheading {
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 20px;
+    text-transform: none;
+    font-family: 'Droid Serif','Helvetica Neue',Helvetica,Arial,sans-serif;
+  }
+  
+  .jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #eceeef;
+    border-radius: .3rem;
+  }
+  
+  
+  .btn-xl {
+    font-size: 18px;
+    font-weight: 700 !important;
+    padding: 20px 40px !important;
+    border-radius: 3px;
+    color: #fff !important;
+    border-color: #d41111;
+    background-color: #d41111;
+    font-family: Montserrat,'Helvetica Neue',Helvetica,Arial,sans-serif;
+    text-transform: uppercase;
+  }
